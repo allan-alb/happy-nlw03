@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://rocketseat.com.br">
-    <img alt="by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-!9CF?color=9CF">
+    <img alt="by Rocketseat" src="https://img.shields.io/badge/by-Rocketseat-!9CF?color=9CF">
   </a>
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%21A7DF1E?color=yellow">
 </p>
